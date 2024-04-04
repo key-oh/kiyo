@@ -5,8 +5,7 @@ yo im just a lazy mf thats (kind of) trying to learn how to code n shit
 soon to be a cyber undergraduate
 
 currently trying to learn:
--python
--javascript
+python , javascript
 
 founder & general manager for osu!ascension
 https://ascension.wtf/
