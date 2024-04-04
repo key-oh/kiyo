@@ -10,7 +10,7 @@ python , javascript
 founder & general manager for osu!ascension
 https://ascension.wtf/
 
-i dont care enought to polish and make this look fancy fuck you
+i dont care enough to polish and make this look fancy fuck you
 
 dcs: xnakanonino & kiyoisaloser
 
